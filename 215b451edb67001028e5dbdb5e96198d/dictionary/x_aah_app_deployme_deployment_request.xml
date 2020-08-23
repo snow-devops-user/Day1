@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Deployment Request" max_length="40" name="x_aah_app_deployme_deployment_request" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Application" max_length="32" name="u_application" reference="sys_app" type="reference"/>
+        <element label="Application Scope" max_length="100" name="u_app_scope" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="9a0b5a56db6b001028e5dbdb5e96190d" label="Dev Instance Credentials" max_length="32" name="u_dev_creds" reference="sys_alias" type="reference"/>
+        <element label="Dev Instance URL" max_length="255" name="u_dev_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" default="master" label="Git Branch" max_length="40" name="u_git_branch" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Git Tag" max_length="40" name="u_git_tag" type="string"/>
+        <element label="Git Repository URL" max_length="1024" name="u_git_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="081a1a16db6b001028e5dbdb5e96197a" label="Prod Instance Credentials" max_length="32" name="u_prod_creds" reference="sys_alias" type="reference"/>
+        <element label="Prod Instance URL" max_length="1024" name="u_prod_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Slack Webhook" max_length="100" name="u_slack_webhook" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="418b9e56db6b001028e5dbdb5e961906" label="Test Instance Credentials" max_length="32" name="u_test_creds" reference="sys_alias" type="reference"/>
+        <element label="ATF Test Suite" max_length="40" name="u_test_suite" type="string"/>
+        <element label="Test Instance URL" max_length="1024" name="u_test_url" type="url"/>
+        <element label="Application Version" max_length="40" name="u_version" type="string"/>
+    </element>
+</database>

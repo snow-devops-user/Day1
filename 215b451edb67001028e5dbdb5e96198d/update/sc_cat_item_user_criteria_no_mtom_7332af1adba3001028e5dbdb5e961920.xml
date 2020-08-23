@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Application Deployment Request (CICD)">829ff91edbe7001028e5dbdb5e961921</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>Neha</sys_created_by>
+        <sys_created_on>2020-03-17 02:53:02</sys_created_on>
+        <sys_id>7332af1adba3001028e5dbdb5e961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Deployment Request (CICD).</sys_name>
+        <sys_package display_value="App Deployment Request (CICD)" source="x_aah_app_deployme">215b451edb67001028e5dbdb5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Deployment Request (CICD)">215b451edb67001028e5dbdb5e96198d</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_7332af1adba3001028e5dbdb5e961920</sys_update_name>
+        <sys_updated_by>Neha</sys_updated_by>
+        <sys_updated_on>2020-03-17 02:53:02</sys_updated_on>
+        <user_criteria display_value="">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>
