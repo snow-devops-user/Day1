@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>sys_connection</connection_type>
+        <id>x_aah_app_deployme.dev_client_instance_test1</id>
+        <multiple_connections>false</multiple_connections>
+        <name>dev_client_instance_test1</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>Neha</sys_created_by>
+        <sys_created_on>2020-03-16 21:44:00</sys_created_on>
+        <sys_id>418b9e56db6b001028e5dbdb5e961906</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_aah_app_deployme.dev_client_instance_test1</sys_name>
+        <sys_package display_value="App Deployment Request (CICD)" source="x_aah_app_deployme">215b451edb67001028e5dbdb5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Deployment Request (CICD)">215b451edb67001028e5dbdb5e96198d</sys_scope>
+        <sys_update_name>sys_alias_418b9e56db6b001028e5dbdb5e961906</sys_update_name>
+        <sys_updated_by>Neha</sys_updated_by>
+        <sys_updated_on>2020-03-16 21:44:09</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>

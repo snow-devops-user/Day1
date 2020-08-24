@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Deployment Request</name>
+        <order/>
+        <roles>x_aah_app_deployme.deployment_request_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>Neha</sys_created_by>
+        <sys_created_on>2020-03-16 16:03:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8aad419edb67001028e5dbdb5e961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deployment Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App Deployment Request (CICD)" source="x_aah_app_deployme">215b451edb67001028e5dbdb5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Deployment Request (CICD)">215b451edb67001028e5dbdb5e96198d</sys_scope>
+        <sys_update_name>sys_ui_application_8aad419edb67001028e5dbdb5e961921</sys_update_name>
+        <sys_updated_by>Neha</sys_updated_by>
+        <sys_updated_on>2020-03-16 16:03:50</sys_updated_on>
+    </sys_ui_application>
+</record_update>
